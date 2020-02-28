@@ -1,7 +1,7 @@
 airtms:
   rabbitmq:
     host: 192.168.99.101
-    port: 5672
+    port: 5000
     username: defaultuser
     password: aither21
     virtual-host: vhost000001
